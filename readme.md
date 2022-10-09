@@ -6,16 +6,16 @@
 
 Welcome, here you find all the information about each ones.
 
-# DATA SCIENCE PROJECTS
+## DATA SCIENCE PROJECTS
 
 
 
-# TUTORIALS
+## TUTORIALS
 
-* [`Mastering Data Science with Pandas`](https://github.com/arthurddduarte86/CodeWars-Py/blob/main/Code-Py/Multiply.py)   || ¨¨  DESCRIÇÃO  
+* [`Mastering Data Science with Pandas`]   || Introductory course for Pandas with Python  
 
-* [`Minicurso Análise de Dados no Python com Pandas`](https://github.com/arthurddduarte86/CodeWars-Py/blob/main/Code-Py/Multiply.py)   ||  DESCRIÇÃO  
+* [`Minicurso Análise de Dados no Python com Pandas`]   || Notebooks for commands and basic analysis  
 
-* `Notebooks` ||  Folder with notebooks about `Python`, `Numpy`, `Pandas`  
+* `Notebooks` ||  Folder with notebooks about Python, Numpy, Pandas  
 
  
