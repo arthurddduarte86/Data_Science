@@ -14,8 +14,8 @@ Welcome, here you find all the information about each ones.
 
 * [`Mastering Data Science with Pandas`](/Mastering%20Data%20Science%20with%20Pandas)   || Introductory course for Pandas with Python  
 
-* [`Minicurso Análise de Dados no Python com Pandas`]   || Notebooks for commands and basic analysis  
+* [`Minicurso Análise de Dados no Python com Pandas`](/Minicurso%20Análise%20de%20Dados%20no%20Python%20com%20Pandas)   || Notebooks for commands and basic analysis  
 
-* [`Notebooks`] ||  Folder with notebooks about Python, Numpy, Pandas  
+* [`Notebooks`](/Notebooks) ||  Folder with notebooks about Python, Numpy, Pandas  
 
  
