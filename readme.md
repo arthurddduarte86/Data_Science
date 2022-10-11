@@ -6,9 +6,9 @@
 
 Welcome, here you find all the information about each ones.
 
-## DATA SCIENCE PROJECTS
+## DATA SCIENCE PROJECTS / STUDIES
 
-
+* [`Natural Gas Consumption by ZIP_code`](/Natural_Gas_Consumption_by_ZIP_code) ||  Study about gas consumption in USA by ZIPCODE.
 
 ## TUTORIALS
 
