@@ -20,3 +20,4 @@ Welcome, here you find all the information about each ones.
 
 * [`API of the Brazilian Central Bank`](/API_Central_Bank_of_Brazilian_Government) ||  Tutorial using one the various APIs from the Brazilian Central Bank.
 
+* [`Titanic Turorial`](/Titanic_Turorial) ||  Notebook about some dataset about Titanic´s registry of passengers onboard.
